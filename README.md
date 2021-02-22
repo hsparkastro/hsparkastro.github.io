@@ -1,10 +1,12 @@
 ## Hyunsang Park
 
-Incoming Ph.D. student in Aeronautics and Astronautics at Purdue University
+Hello, I am an incoming Ph.D. student in Aeronautics and Astronautics at Purdue University.
+
 
 **Interests**: Assured autonomy, uncertain systems, adaptive control, reinforcement learning  
 
-Download **[CV](https://github.com/hsparkastro/hsparkastro.github.io/CV_hyunsangpark.pdf)** 
+Email: hs.park.astro@gmail.com
+/ CV: **[Link](https://github.com/hsparkastro/hsparkastro.github.io/CV_hyunsangpark.pdf)** 
 
 
 ### Education
