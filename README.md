@@ -1,5 +1,5 @@
-Hello, I am an incoming Ph.D. student in Aeronautics and Astronautics at Purdue University.
-
+Autonomy will define the next generation of aerospace. 
+My goal is to find solutions that can provide resilience and optimality for uncertain systems without human intervention.
 
 **Interests**: Assured autonomy, uncertain systems, adaptive control, reinforcement learning  
 
