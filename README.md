@@ -4,7 +4,7 @@ Hello, I am an incoming Ph.D. student in Aeronautics and Astronautics at Purdue 
 **Interests**: Assured autonomy, uncertain systems, adaptive control, reinforcement learning  
 
 Email: hs.park.astro@gmail.com
-/ CV: **[Link](https://github.com/hsparkastro/hsparkastro.github.io/blob/main/CV_hyunsangpark.pdf)** 
+/ CV: **[Link](https://github.com/hsparkastro/hsparkastro.github.io/raw/main/CV_hyunsangpark.pdf)** 
 
 
 ### Education
