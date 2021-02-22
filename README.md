@@ -1,5 +1,3 @@
-## Hyunsang Park
-
 Hello, I am an incoming Ph.D. student in Aeronautics and Astronautics at Purdue University.
 
 
