@@ -8,11 +8,12 @@ Email: hs.park.astro@gmail.com
 
 
 ### Education
-- **M.S. in Aerospace Eng.**, _Seoul National University_, 2020
-  - Advisor: Prof. Youdan Kim
-  - Concentration: Guidance, Navigation, and Control
-  - Thesis: Adaptive Fault Tolerant Control Design for Nonlinear Aircraft System with Actuator Faults
-- **B.S.in Mech. & Aero. Eng.**, _Seoul National University_, 2018
+**M.S. in Aerospace Eng.**, _Seoul National University_, 2020
+- Advisor: Prof. Youdan Kim
+- Concentration: Guidance, Navigation, and Control
+- Thesis: Adaptive Fault Tolerant Control Design for Nonlinear Aircraft System with Actuator Faults
+
+**B.S.in Mech. & Aero. Eng.**, _Seoul National University_, 2018
 
 ### Publications
 **Journal Paper in Review**
