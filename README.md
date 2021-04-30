@@ -17,7 +17,7 @@ Email: hs.park.astro@gmail.com
 
 ### Publications
 **Journal Paper**
-- H. Park and Y. Kim, “Adaptive Fault-Tolerant Flight Control Using a Nonlinear Reference Model”, _IEEE Transactions on Aerospace and Electronic Systems(Early Access)_ , 2021
+- H. Park and Y. Kim, “Adaptive Fault-Tolerant Flight Control Using a Nonlinear Reference Model”, _IEEE Transactions on Aerospace and Electronic Systems (Early Access)_ , 2021
 
 **Conference Proceedings**
 - H. Park and Y. Kim, “Nonlinear Geometric Fault Detection and Isolation of Redundant Actuators in Aircraft”, _The Korean Society for Aeronautical and Space Sciences 2019 Fall Conference_, Jeju, Korea, November 2019
