@@ -24,5 +24,5 @@ Email: park1375@purdue.edu
 
 **Conference Proceedings**
 - H. Park and Y. Kim, “Nonlinear Geometric Fault Detection and Isolation of Redundant Actuators in Aircraft”, _The Korean Society for Aeronautical and Space Sciences 2019 Fall Conference_, Jeju, Korea, November 2019
-- H. Park and Y. Kim, “[L1 Adaptive Backstepping Control of Aircraft under Actuator Failures](https://doi.org/10.13009/EUCASS2019-164)”, 8 th European Conference for Aeronautics and Aerospace Sciences, Madrid, Spain, July 2019
+- H. Park and Y. Kim, “[L1 Adaptive Backstepping Control of Aircraft under Actuator Failures](https://doi.org/10.13009/EUCASS2019-164)”, _in Proceedings of the 8th European Conference for Aeronautics and Aerospace Sciences_, Madrid, Spain, July 2019
 - H. Park and Y. Kim, “Model Free Estimation of Wind and Air Velocity of UAV Using Extended Kalman Filter”, _The Korean Society for Aeronautical and Space Sciences 2018 Fall Conference_, Jeju, Korea, November 2018
