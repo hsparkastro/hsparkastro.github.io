@@ -20,7 +20,7 @@ Email: park1375@purdue.edu
 
 ### Publications
 **Journal Paper**
-- H. Park and Y. Kim, “Adaptive Fault-Tolerant Flight Control Using a Nonlinear Reference Model”, _in IEEE Transactions on Aerospace and Electronic Systems_, vol. 57, no. 5, pp. 3337-3356, Oct. 2021, doi: 10.1109/TAES.2021.3074198.
+- H. Park and Y. Kim, “[Adaptive Fault-Tolerant Flight Control Using a Nonlinear Reference Model](https://doi.org/10.1109/TAES.2021.3074198)”, _in IEEE Transactions on Aerospace and Electronic Systems_, vol. 57, no. 5, pp. 3337-3356, Oct. 2021.
 
 **Conference Proceedings**
 - H. Park and Y. Kim, “Nonlinear Geometric Fault Detection and Isolation of Redundant Actuators in Aircraft”, _The Korean Society for Aeronautical and Space Sciences 2019 Fall Conference_, Jeju, Korea, November 2019
