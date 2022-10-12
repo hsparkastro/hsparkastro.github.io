@@ -1,7 +1,7 @@
 > Autonomy will define the next generation of aerospace. 
 My goal is to find solutions that can guarantee resilience and safety in unknown/uncertain systems without human intervention.
 
-**Interests**: data-driven control, adaptive control, fault-tolerance, air traffic control
+**Interests**: data-driven control, adaptive control, fault-tolerance, air traffic control, reachability analysis, safety guaranteed learning
 
 Email: park1375@purdue.edu
 / CV: [Link](https://github.com/hsparkastro/hsparkastro.github.io/raw/main/CV_hyunsangpark.pdf)
@@ -9,7 +9,7 @@ Email: park1375@purdue.edu
 
 ### Education
 
-**Ph.D in Aeronautics & Astronautics**, _Purdue University_, 2021-2025 (expected)
+**Ph.D in Aeronautics & Astronautics**, _Purdue University_, 2021-Ongoing
 
 **M.S. in Aerospace Eng.**, _Seoul National University_, 2018-2020
 - Advisor: Prof. Youdan Kim
@@ -24,5 +24,5 @@ Email: park1375@purdue.edu
 
 **Conference Proceedings**
 - H. Park and Y. Kim, “Nonlinear Geometric Fault Detection and Isolation of Redundant Actuators in Aircraft”, _The Korean Society for Aeronautical and Space Sciences 2019 Fall Conference_, Jeju, Korea, November 2019
-- H. Park and Y. Kim, “L1 Adaptive Backstepping Control of Aircraft under Actuator Failures”, 8 th European Conference for Aeronautics and Aerospace Sciences, Madrid, Spain, July 2019
+- H. Park and Y. Kim, “[L1 Adaptive Backstepping Control of Aircraft under Actuator Failures](https://doi.org/10.13009/EUCASS2019-164)”, 8 th European Conference for Aeronautics and Aerospace Sciences, Madrid, Spain, July 2019
 - H. Park and Y. Kim, “Model Free Estimation of Wind and Air Velocity of UAV Using Extended Kalman Filter”, _The Korean Society for Aeronautical and Space Sciences 2018 Fall Conference_, Jeju, Korea, November 2018
