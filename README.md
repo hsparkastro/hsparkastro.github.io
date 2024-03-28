@@ -1,6 +1,3 @@
-> Autonomy will define the next generation of aerospace. 
-My goal is to find solutions that can guarantee resilience and safety in unknown/uncertain systems without human intervention.
-
 **Interests**: data-driven control, adaptive control, fault-tolerance, air traffic control, reachability analysis, safety-guaranteed learning
 
 Email: park1375@purdue.edu
