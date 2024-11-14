@@ -17,10 +17,11 @@ Email: park1375@purdue.edu
 
 **B.S. in Mechanical & Aerospace Eng.**, _Seoul National University_, 2012-2018
 
-### Publications
+### Key Publications
 **Journal Paper**
-- **H. Park** and Y. Kim, “[Adaptive Fault-Tolerant Flight Control Using a Nonlinear Reference Model](https://doi.org/10.1109/TAES.2021.3074198)”, _in IEEE Transactions on Aerospace and Electronic Systems_, vol. 57, no. 5, pp. 3337-3356, October 2021.
-- **H. Park**, V. Vijay, and I. Hwang, “Data-driven Reachability Analysis for Nonlinear Systems,” IEEE Control Systems Letters, (in review)
+- **H. Park** and Y. Kim, “[Adaptive Fault-Tolerant Flight Control Using a Nonlinear Reference Model](https://doi.org/10.1109/TAES.2021.3074198)”, _IEEE Transactions on Aerospace and Electronic Systems_, vol. 57, no. 5, pp. 3337-3356, October 2021.
+-  J. Choi, **H. Park**, and I. Hwang, “[Bootstrapped Gaussian Mixture Model-Based Data-Driven Forward Stochastic Reachability Analysis](https://doi.org/10.1109/LCSYS.2023.3347188),” _IEEE Control Systems Letter_, Vol.8, pp. 1-6, December 2023.
+- **H. Park**, V. Vijay, and I. Hwang, “Data-driven Reachability Analysis for Nonlinear Systems,” _IEEE Control Systems Letters_, (in review)
 
 
 **Conference Proceedings**
