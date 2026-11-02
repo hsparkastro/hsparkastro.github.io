@@ -1,4 +1,4 @@
-**Interests**: data-driven control, adaptive control, fault-tolerance, air traffic control, reachability analysis, safety-guaranteed learning, Koopman operator
+**Interests**: data-driven control, adaptive control, reachability analysis, safety-guaranteed learning, Koopman operator, air traffic control, marine robotics
 
 Email: park1375@purdue.edu
 / CV: [Link](https://github.com/hsparkastro/hsparkastro.github.io/raw/main/CV_hyunsangpark.pdf)
@@ -6,9 +6,9 @@ Email: park1375@purdue.edu
 
 ### Education
 
-**Ph.D in Aeronautics & Astronautics**, _Purdue University_, 2021-Ongoing
-- Advisor: Prof. Inseok Hwang
-- Concentration: Autonomy and Control
+**Ph.D in Mechanical Eng. **, _Purdue University_, 2021-Ongoing
+- Advisor: Prof. Nina Mahmoudian
+- Research Area: Systems, Measurements & Controls
   
 **M.S. in Aerospace Eng.**, _Seoul National University_, 2018-2020
 - Advisor: Prof. Youdan Kim
@@ -19,9 +19,9 @@ Email: park1375@purdue.edu
 
 ### Key Publications
 **Journal Paper**
-- **H. Park** and Y. Kim, “[Adaptive Fault-Tolerant Flight Control Using a Nonlinear Reference Model](https://doi.org/10.1109/TAES.2021.3074198)”, _IEEE Transactions on Aerospace and Electronic Systems_, vol. 57, no. 5, pp. 3337-3356, October 2021.
--  J. Choi, **H. Park**, and I. Hwang, “[Bootstrapped Gaussian Mixture Model-Based Data-Driven Forward Stochastic Reachability Analysis](https://doi.org/10.1109/LCSYS.2023.3347188),” _IEEE Control Systems Letter_, Vol.8, pp. 1-6, December 2023.
 - **H. Park**, V. Vijay, and I. Hwang, “[Data-driven Reachability Analysis for Nonlinear Systems](https://doi.org/10.1109/LCSYS.2024.3510595),” _IEEE Control Systems Letters_, vol. 8, pp. 2661-2666, December 2024.
+-  J. Choi, **H. Park**, and I. Hwang, “[Bootstrapped Gaussian Mixture Model-Based Data-Driven Forward Stochastic Reachability Analysis](https://doi.org/10.1109/LCSYS.2023.3347188),” _IEEE Control Systems Letter_, Vol.8, pp. 1-6, December 2023.
+- **H. Park** and Y. Kim, “[Adaptive Fault-Tolerant Flight Control Using a Nonlinear Reference Model](https://doi.org/10.1109/TAES.2021.3074198)”, _IEEE Transactions on Aerospace and Electronic Systems_, vol. 57, no. 5, pp. 3337-3356, October 2021.
 
 
 **Conference Proceedings**
